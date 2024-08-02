@@ -1,0 +1,4 @@
+var fruits = ["apple","orange","grapes"];
+//push
+fruits.push("strawberry");
+console.log(fruits);
